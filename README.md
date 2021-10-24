@@ -1,2 +1,0 @@
-# pybites-stub
-test package
